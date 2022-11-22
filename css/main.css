@@ -332,6 +332,11 @@ input[type="button"] {
   align-items: center;
   flex-flow: row wrap;
 }
+.features i {
+  font-size: 3.75em;
+  margin-bottom: 40px;
+  color: #527158;
+}
 
 .features p {
   text-align: center;
