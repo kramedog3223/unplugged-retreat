@@ -335,7 +335,7 @@ input[type="button"] {
 .features i {
   font-size: 3.75em;
   margin-bottom: 40px;
-  color: #527158;
+  color: darkgray;
 }
 
 .features p {
